@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.card{
+	width: 40vw;
+	background-color: #000;
+	padding:40px;
+	height: 60vh;
+	text-align:center;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.img{
+	
+	width: 40vw
+}
+.but{
+	color:#fff;
+	background-color: blue;
+	padding:10px;
+	border-radius: 5px;
+}
